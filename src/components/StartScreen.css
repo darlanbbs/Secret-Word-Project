@@ -1,0 +1,15 @@
+.start h2 {
+  font-size: 30px;
+}
+
+.start p {
+  font-size: 18px;
+  font-weight: 700;
+  color: #ecfa00;
+}
+
+strong {
+  color: gold;
+  font-size: 35px;
+  text-transform: uppercase;
+}
