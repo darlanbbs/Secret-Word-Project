@@ -18,3 +18,6 @@ The challenge Project Word is a challange to improve the techniques in Reactjs.
 -Type npm install to install all dependencies
 
 -Last, but not least, type npm start to run the app locally.
+
+# Layout 
+
